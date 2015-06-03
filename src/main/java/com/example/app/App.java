@@ -4,9 +4,6 @@ import java.util.UUID;
 
 import org.apache.log4j.Logger;
 
-/**
- * http://www.mkyong.com/maven/how-to-create-a-java-project-with-maven/
- */
 public class App {
 	public static final Logger LOG = Logger.getLogger(App.class);
 	
